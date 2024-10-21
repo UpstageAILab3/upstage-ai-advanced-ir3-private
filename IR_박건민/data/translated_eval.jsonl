@@ -1,0 +1,220 @@
+{"eval_id": 78, "msg": [{"role": "user", "content": "What are the methods to investigate the classification of trees?"}]}
+{"eval_id": 213, "msg": [{"role": "user", "content": "Please let me know the current status of public education spending in each country."}]}
+{"eval_id": 107, "msg": [{"role": "user", "content": "It would be really scary to have amnesia."}, {"role": "assistant", "content": "Yes, that's right."}, {"role": "user", "content": "I'm curious about what causes it to happen."}]}
+{"eval_id": 81, "msg": [{"role": "user", "content": "Tell me about the value of the school bus."}]}
+{"eval_id": 280, "msg": [{"role": "user", "content": "Who is Dmitry Ivanovsky?"}]}
+{"eval_id": 10, "msg": [{"role": "user", "content": "Is the method of using medication for contraception effective?"}]}
+{"eval_id": 100, "msg": [{"role": "user", "content": "Why does helium not react well with other elements?"}]}
+{"eval_id": 279, "msg": [{"role": "user", "content": "What is the impact of the illiteracy rate on social development?"}]}
+{"eval_id": 42, "msg": [{"role": "user", "content": "What is the Iran-Contra affair?"}, {"role": "assistant", "content": "The Iran-Contra affair was a significant incident that occurred in 1986 during Ronald Reagan's presidency, where the Reagan administration and the CIA secretly exported weapons to Iran, which was an adversarial country, using the proceeds to support the right-wing Contra rebels in Nicaragua, while simultaneously purchasing drugs from those rebels to sell in the United States, leading to a major scandal when exposed."}, {"role": "user", "content": "What is the impact of this affair on American politics?"}]}
+{"eval_id": 308, "msg": [{"role": "user", "content": "How is the strength of a magnetic field expressed?"}]}
+{"eval_id": 205, "msg": [{"role": "user", "content": "Which organ helps to purify the blood and remove waste from the body?"}]}
+{"eval_id": 289, "msg": [{"role": "user", "content": "Why is the breakdown of glycogen necessary in the human body?"}]}
+{"eval_id": 268, "msg": [{"role": "user", "content": "What are the factors that cause raindrops to grow larger?"}]}
+{"eval_id": 18, "msg": [{"role": "user", "content": "Why is the volume or shape of a gas not constant?"}]}
+{"eval_id": 9, "msg": [{"role": "user", "content": "Please explain the process by which plants convert light into energy."}]}
+{"eval_id": 101, "msg": [{"role": "user", "content": "Tell me about the difference between direct current and alternating current."}]}
+{"eval_id": 236, "msg": [{"role": "user", "content": "Can oil and water mix?"}]}
+{"eval_id": 59, "msg": [{"role": "user", "content": "Explain the process of DNA bonding when a human produces offspring."}]}
+{"eval_id": 25, "msg": [{"role": "user", "content": "How would the moon look from Venus?"}]}
+{"eval_id": 5, "msg": [{"role": "user", "content": "What are the positive effects that appear when a vehicle's fuel efficiency improves?"}]}
+{"eval_id": 104, "msg": [{"role": "user", "content": "Tell me about the properties of the mixture."}]}
+{"eval_id": 276, "msg": [{"role": "user", "content": "These days are really tough."}]}
+{"eval_id": 14, "msg": [{"role": "user", "content": "What is the principle behind the formation of bubbles in detergent?"}]}
+{"eval_id": 270, "msg": [{"role": "user", "content": "Explain the role of trees in the ecosystem."}]}
+{"eval_id": 238, "msg": [{"role": "user", "content": "To maximize the flow of current, how should a battery and resistor be connected?"}]}
+{"eval_id": 269, "msg": [{"role": "user", "content": "I'm curious about the mechanism that allows plants to grow tall."}]}
+{"eval_id": 43, "msg": [{"role": "user", "content": "When I look at the moon, I always see the same side."}, {"role": "assistant", "content": "Yes, that's right."}, {"role": "user", "content": "What is the reason for that?"}]}
+{"eval_id": 65, "msg": [{"role": "user", "content": "What happens when you mix vinegar and baking soda?"}]}
+{"eval_id": 97, "msg": [{"role": "user", "content": "I thought bacteria were bad, but is that not the case?"}, {"role": "assistant", "content": "Yes, that's right."}, {"role": "user", "content": "Then can you tell me about the positive functions?"}]}
+{"eval_id": 206, "msg": [{"role": "user", "content": "Tell me about the characteristics of automata."}]}
+{"eval_id": 21, "msg": [{"role": "user", "content": "Please tell me how to define a class in the code for cataloging various books."}]}
+{"eval_id": 221, "msg": [{"role": "user", "content": "What is the reason for the decrease in current when light bulbs are connected in parallel?"}]}
+{"eval_id": 71, "msg": [{"role": "user", "content": "Please tell me about the principle of precipitation occurring in water."}]}
+{"eval_id": 254, "msg": [{"role": "user", "content": "What do you call the emergence of new biological communities after a volcanic eruption?"}]}
+{"eval_id": 226, "msg": [{"role": "user", "content": "What happens to the total capacitance when capacitors are connected in parallel?"}]}
+{"eval_id": 241, "msg": [{"role": "user", "content": "How do you calculate the volume corresponding to the upper part of the water surface when a cube floats on water without sinking?"}]}
+{"eval_id": 261, "msg": [{"role": "user", "content": "I'm so excited that you answered well!"}]}
+{"eval_id": 45, "msg": [{"role": "user", "content": "Why do we hit the wall with a hammer on a construction site?"}]}
+{"eval_id": 19, "msg": [{"role": "user", "content": "What is the device that prevents vehicle exhaust emissions?"}]}
+{"eval_id": 210, "msg": [{"role": "user", "content": "When can you use lambda functions in Python?"}]}
+{"eval_id": 231, "msg": [{"role": "user", "content": "What is the most important reason for the evaporation of water from rivers or the sea?"}]}
+{"eval_id": 233, "msg": [{"role": "user", "content": "Why is emotional behavior important in male-female relationships?"}]}
+{"eval_id": 263, "msg": [{"role": "user", "content": "What helps DNA pieces to bond with each other?"}]}
+{"eval_id": 201, "msg": [{"role": "user", "content": "Is the phenomenon of the sun rising related to the rotation of the Earth?"}]}
+{"eval_id": 293, "msg": [{"role": "user", "content": "How can we determine that two substances are made up of different molecular structures or chemical components?"}]}
+{"eval_id": 208, "msg": [{"role": "user", "content": "Why is Mercury hot?"}]}
+{"eval_id": 282, "msg": [{"role": "user", "content": "Tell me about the functions of a estuarine sedimentary area."}]}
+{"eval_id": 62, "msg": [{"role": "user", "content": "What ratio do purines and pyrimidines exist in DNA?"}]}
+{"eval_id": 55, "msg": [{"role": "user", "content": "Tell me about the role of interferon."}]}
+{"eval_id": 257, "msg": [{"role": "user", "content": "What is the reason that multiple proteins can be produced from a single gene?"}]}
+{"eval_id": 58, "msg": [{"role": "user", "content": "What is the method for determining the ratio of chlorine when precipitating chloride through nitric acid?"}]}
+{"eval_id": 283, "msg": [{"role": "user", "content": "Stop talking now!"}]}
+{"eval_id": 32, "msg": [{"role": "user", "content": "I had so much fun today!"}]}
+{"eval_id": 94, "msg": [{"role": "user", "content": "I'm feeling down, so tell me something exciting!"}]}
+{"eval_id": 15, "msg": [{"role": "user", "content": "What should be the attitude and stance that a researcher should have?"}]}
+{"eval_id": 4, "msg": [{"role": "user", "content": "What is the reason that time seems to pass more quickly as we get older?"}]}
+{"eval_id": 300, "msg": [{"role": "user", "content": "What does social security mean to retired individuals?"}]}
+{"eval_id": 243, "msg": [{"role": "user", "content": "Isn't it possible for a person or an object to stand still on the earth without sinking into the ground or bouncing out?"}, {"role": "assistant", "content": "Yes, that's right."}, {"role": "user", "content": "Explain that reason using the principles of force."}]}
+{"eval_id": 34, "msg": [{"role": "user", "content": "Can you tell me more about the functions of seeds?"}]}
+{"eval_id": 246, "msg": [{"role": "user", "content": "What are some eco-friendly renewable materials?"}]}
+{"eval_id": 212, "msg": [{"role": "user", "content": "Tell me about the Latin history of South America."}]}
+{"eval_id": 214, "msg": [{"role": "user", "content": "Please explain the internal structure of an atom."}]}
+{"eval_id": 259, "msg": [{"role": "user", "content": "Tell me about the function of the obstacles."}]}
+{"eval_id": 267, "msg": [{"role": "user", "content": "What is the effect of air temperature on climate?"}]}
+{"eval_id": 90, "msg": [{"role": "user", "content": "Hello, nice to meet you."}]}
+{"eval_id": 66, "msg": [{"role": "user", "content": "I'm writing code to calculate the average."}, {"role": "assistant", "content": "Yes, how can I help you?"}, {"role": "user", "content": "Let me know when exception handling is needed."}]}
+{"eval_id": 20, "msg": [{"role": "user", "content": "Can software development be conducted without human bias?"}]}
+{"eval_id": 24, "msg": [{"role": "user", "content": "What do you call the condition in which the proportion of a specific gene remains unchanged in the entire population?"}]}
+{"eval_id": 281, "msg": [{"role": "user", "content": "How can we check how long it has been since the Earth was created?"}]}
+{"eval_id": 264, "msg": [{"role": "user", "content": "Tell me about the process of sexual arousal."}]}
+{"eval_id": 79, "msg": [{"role": "user", "content": "What does the magnetic field around a wire look like?"}]}
+{"eval_id": 304, "msg": [{"role": "user", "content": "What effects does doing high-intensity exercise intermittently have?"}]}
+{"eval_id": 292, "msg": [{"role": "user", "content": "What is the role of acetylcholine?"}]}
+{"eval_id": 215, "msg": [{"role": "user", "content": "Please explain the relationship and roles of DNA and proteins."}]}
+{"eval_id": 225, "msg": [{"role": "user", "content": "What is the effect of the axial tilt on climate?"}]}
+{"eval_id": 108, "msg": [{"role": "user", "content": "What are the benefits you can gain from travel?"}]}
+{"eval_id": 98, "msg": [{"role": "user", "content": "I heard that galaxies are getting farther away, is that true?"}, {"role": "assistant", "content": "Yes, that's right."}, {"role": "user", "content": "Did you see a physical phenomenon and learn about it?"}]}
+{"eval_id": 38, "msg": [{"role": "user", "content": "Tell me about the characteristics of Jupiter trojans."}]}
+{"eval_id": 287, "msg": [{"role": "user", "content": "Explain the enzyme called superoxide dismutase."}]}
+{"eval_id": 295, "msg": [{"role": "user", "content": "I live in Nevada..."}, {"role": "assistant", "content": "Yes, I see."}, {"role": "user", "content": "Why doesn't it rain a lot here?"}]}
+{"eval_id": 255, "msg": [{"role": "user", "content": "What kind of machine can magnify an object very large?"}]}
+{"eval_id": 76, "msg": [{"role": "user", "content": "Please explain the merge sort algorithm."}]}
+{"eval_id": 248, "msg": [{"role": "user", "content": "What is the impact of the deep sea on the ecosystem?"}]}
+{"eval_id": 85, "msg": [{"role": "user", "content": "If the resistance doubles, what happens to the power?"}]}
+{"eval_id": 290, "msg": [{"role": "user", "content": "If there is a fire in the mountain, many animals and plants will die."}, {"role": "assistant", "content": "It's a unfortunate thing."}, {"role": "user", "content": "What is the process of nature's recovery after a fire?"}]}
+{"eval_id": 73, "msg": [{"role": "user", "content": "Tell me about the role of DNA degrading enzymes."}]}
+{"eval_id": 309, "msg": [{"role": "user", "content": "How to make a sulfate sample of a specific concentration?"}]}
+{"eval_id": 239, "msg": [{"role": "user", "content": "How many times does the moon orbit the Earth in a year?"}]}
+{"eval_id": 284, "msg": [{"role": "user", "content": "Explain the factors that influence the formation of an individual's biological and social characteristics."}]}
+{"eval_id": 220, "msg": [{"role": "user", "content": "Who are you?"}]}
+{"eval_id": 96, "msg": [{"role": "user", "content": "What is perception mainly made of?"}]}
+{"eval_id": 217, "msg": [{"role": "user", "content": "Is there rabies in the island nations of Oceania?"}]}
+{"eval_id": 6, "msg": [{"role": "user", "content": "When thick, wide gray clouds appear in cold weather, what kind of weather can be expected?"}]}
+{"eval_id": 237, "msg": [{"role": "user", "content": "Tell me how to make PRP with high stability."}]}
+{"eval_id": 245, "msg": [{"role": "user", "content": "Is there something you don't know?"}]}
+{"eval_id": 35, "msg": [{"role": "user", "content": "Please explain the characteristics of neutrons."}]}
+{"eval_id": 242, "msg": [{"role": "user", "content": "Tell me about the role of plankton."}]}
+{"eval_id": 296, "msg": [{"role": "user", "content": "Tell me about the difference between parasitism and mutualism."}]}
+{"eval_id": 307, "msg": [{"role": "user", "content": "What are some examples of behaviors in which a puppy is socialized?"}]}
+{"eval_id": 229, "msg": [{"role": "user", "content": "What are you good at?"}]}
+{"eval_id": 30, "msg": [{"role": "user", "content": "What is the mechanism by which new land is formed on Earth?"}]}
+{"eval_id": 16, "msg": [{"role": "user", "content": "Tell me how to properly handle dirty engine oil."}]}
+{"eval_id": 247, "msg": [{"role": "user", "content": "You are really smart!"}]}
+{"eval_id": 285, "msg": [{"role": "user", "content": "What is the effect of squirrels burying fruits on trees?"}]}
+{"eval_id": 77, "msg": [{"role": "user", "content": "What methods were used to break the long-held belief in the emergence of new life forms?"}]}
+{"eval_id": 250, "msg": [{"role": "user", "content": "What is the process of canyon formation?"}]}
+{"eval_id": 68, "msg": [{"role": "user", "content": "I'm studying Python..."}, {"role": "assistant", "content": "Yes, it's a language that you definitely need, so it's good to study it."}, {"role": "user", "content": "Tell me about operator precedence for number calculations."}]}
+{"eval_id": 86, "msg": [{"role": "user", "content": "The largest amount of water on Earth is seawater, right?"}, {"role": "assistant", "content": "Yes, that's right."}, {"role": "user", "content": "Where is the place with the most fresh water, not sea water?"}]}
+{"eval_id": 232, "msg": [{"role": "user", "content": "Who are the people chasing the storm?"}]}
+{"eval_id": 109, "msg": [{"role": "user", "content": "Tell me about the disadvantages of nuclear power generation using uranium."}]}
+{"eval_id": 1, "msg": [{"role": "user", "content": "What happens to entropy when a solid changes to a liquid?"}]}
+{"eval_id": 28, "msg": [{"role": "user", "content": "What forms can emotional support from society take?"}]}
+{"eval_id": 203, "msg": [{"role": "user", "content": "What are the advantages and disadvantages of using coal as an energy source?"}]}
+{"eval_id": 91, "msg": [{"role": "user", "content": "What are the ways to determine the internal structure of carbon?"}]}
+{"eval_id": 105, "msg": [{"role": "user", "content": "Why is it important to properly document the process and results of research?"}]}
+{"eval_id": 67, "msg": [{"role": "user", "content": "I'm glad you're answering well!"}]}
+{"eval_id": 13, "msg": [{"role": "user", "content": "Tell me about the factors that affect the strength of tides and currents."}]}
+{"eval_id": 57, "msg": [{"role": "user", "content": "Could you tell me something exciting when I'm feeling down?"}]}
+{"eval_id": 2, "msg": [{"role": "user", "content": "Let's stop talking now."}]}
+{"eval_id": 253, "msg": [{"role": "user", "content": "What is the method for identifying chromosomal regions related to complex traits in genetic crossings?"}]}
+{"eval_id": 49, "msg": [{"role": "user", "content": "Why do vertebrates have territories and fight over them?"}]}
+{"eval_id": 294, "msg": [{"role": "user", "content": "What are the features that young birds have evolved to survive?"}]}
+{"eval_id": 17, "msg": [{"role": "user", "content": "What is the angle between the velocity and acceleration vectors when a particle moves in a circular motion at the same speed?"}]}
+{"eval_id": 207, "msg": [{"role": "user", "content": "Explain the structure of insect eyes."}]}
+{"eval_id": 227, "msg": [{"role": "user", "content": "Who are you?"}]}
+{"eval_id": 204, "msg": [{"role": "user", "content": "How do fish breathe?"}]}
+{"eval_id": 89, "msg": [{"role": "user", "content": "I want to model a river."}, {"role": "assistant", "content": "Yes, how can I help you?"}, {"role": "user", "content": "What factors should I pay attention to when modeling?"}]}
+{"eval_id": 256, "msg": [{"role": "user", "content": "Tell me about the limitations of the body mass index."}]}
+{"eval_id": 291, "msg": [{"role": "user", "content": "What are the methods to understand the internal structure of a planet?"}]}
+{"eval_id": 8, "msg": [{"role": "user", "content": "How should the phenomenon of a plant's leaves dropping or developing holes be interpreted?"}]}
+{"eval_id": 106, "msg": [{"role": "user", "content": "What is the principle behind a solar eclipse?"}]}
+{"eval_id": 84, "msg": [{"role": "user", "content": "Tell me what photosynthesis is and about its effects."}]}
+{"eval_id": 70, "msg": [{"role": "user", "content": "What is the role of ribosomes?"}]}
+{"eval_id": 301, "msg": [{"role": "user", "content": "I had so much fun today!"}]}
+{"eval_id": 230, "msg": [{"role": "user", "content": "Why does the wind blow?"}]}
+{"eval_id": 92, "msg": [{"role": "user", "content": "What are the representative natural resources of Maryland?"}]}
+{"eval_id": 72, "msg": [{"role": "user", "content": "What are the main functions of DNA ligase?"}]}
+{"eval_id": 211, "msg": [{"role": "user", "content": "What factors can be considered from the point that the degree or speed of physical changes varies among individuals?"}]}
+{"eval_id": 258, "msg": [{"role": "user", "content": "What are the security vulnerabilities of MAC using the Merkle-Damgård hash function?"}]}
+{"eval_id": 51, "msg": [{"role": "user", "content": "What is the physical principle of chocolate melting?"}]}
+{"eval_id": 200, "msg": [{"role": "user", "content": "What is the principle of how the battery moves the toy?"}]}
+{"eval_id": 274, "msg": [{"role": "user", "content": "What should people with ulcerative colitis be cautious about?"}]}
+{"eval_id": 41, "msg": [{"role": "user", "content": "What is the relationship between the frequency and speed of sound waves?"}]}
+{"eval_id": 87, "msg": [{"role": "user", "content": "What is the principle behind the rising temperature inside Jupiter?"}]}
+{"eval_id": 235, "msg": [{"role": "user", "content": "What are the main characteristics of people who think it's okay to have sexual relations before marriage?"}]}
+{"eval_id": 262, "msg": [{"role": "user", "content": "What design approach considers both age and cohort differences?"}]}
+{"eval_id": 288, "msg": [{"role": "user", "content": "Tell me how to determine if you have a healthy mouth."}]}
+{"eval_id": 60, "msg": [{"role": "user", "content": "How can we tell if the vocal cords are tense?"}]}
+{"eval_id": 222, "msg": [{"role": "user", "content": "Hello, nice to meet you."}]}
+{"eval_id": 46, "msg": [{"role": "user", "content": "Tell me about Hepatitis B."}]}
+{"eval_id": 234, "msg": [{"role": "user", "content": "What measures can be taken to prevent elder abuse?"}]}
+{"eval_id": 83, "msg": [{"role": "user", "content": "You are really smart, aren't you?"}]}
+{"eval_id": 23, "msg": [{"role": "user", "content": "Which has a higher reproductive capacity, plants or animals?"}]}
+{"eval_id": 82, "msg": [{"role": "user", "content": "Please explain the role of chloroplasts."}]}
+{"eval_id": 61, "msg": [{"role": "user", "content": "How to check if a specific substance is made of metal?"}]}
+{"eval_id": 56, "msg": [{"role": "user", "content": "Tell me about the impact of flies on the ecosystem."}]}
+{"eval_id": 99, "msg": [{"role": "user", "content": "How does the Calici virus continue to survive?"}]}
+{"eval_id": 75, "msg": [{"role": "user", "content": "How to use fish for corn harvesting?"}]}
+{"eval_id": 299, "msg": [{"role": "user", "content": "How is freedom of the press in Italy?"}]}
+{"eval_id": 306, "msg": [{"role": "user", "content": "There are a tremendous number of stars gathered in the galaxy, right?"}, {"role": "assistant", "content": "Yes, that's right."}, {"role": "user", "content": "How can so many stars be clustered together?"}]}
+{"eval_id": 80, "msg": [{"role": "user", "content": "What is an attack method that deceives addresses during network communication?"}]}
+{"eval_id": 64, "msg": [{"role": "user", "content": "Is there something you don't know?"}]}
+{"eval_id": 271, "msg": [{"role": "user", "content": "Tell me about the characteristics of fruit salad."}]}
+{"eval_id": 39, "msg": [{"role": "user", "content": "The newly developed antibiotic has finally been released."}, {"role": "assistant", "content": "Yes, how can I help you?"}, {"role": "user", "content": "What needs to be done to clearly explain that effect?"}]}
+{"eval_id": 219, "msg": [{"role": "user", "content": "What role do the enzymes contained in human saliva play?"}]}
+{"eval_id": 273, "msg": [{"role": "user", "content": "What is the impact of the sea on the weather of the land?"}]}
+{"eval_id": 224, "msg": [{"role": "user", "content": "What is traffic sniffing for network analysis?"}]}
+{"eval_id": 12, "msg": [{"role": "user", "content": "Tell me about the biography of the bricklayer who had a positive influence on many people."}]}
+{"eval_id": 33, "msg": [{"role": "user", "content": "I'm studying Python."}, {"role": "assistant", "content": "Learning Python will be useful for you."}, {"role": "user", "content": "What is the function that tells you the smallest value in a list?"}]}
+{"eval_id": 240, "msg": [{"role": "user", "content": "What is the effect of gluten on energy absorption?"}]}
+{"eval_id": 252, "msg": [{"role": "user", "content": "What is the principle behind the formation of ocean trenches?"}]}
+{"eval_id": 69, "msg": [{"role": "user", "content": "How can obesity be measured?"}]}
+{"eval_id": 47, "msg": [{"role": "user", "content": "What subatomic particle is the atomic number related to?"}]}
+{"eval_id": 0, "msg": [{"role": "user", "content": "What do viruses use to interact with prokaryotic cells?"}]}
+{"eval_id": 52, "msg": [{"role": "user", "content": "Please explain the characteristics of the steam boiler."}]}
+{"eval_id": 103, "msg": [{"role": "user", "content": "What are you good at?"}]}
+{"eval_id": 209, "msg": [{"role": "user", "content": "Can you tell me about the role of a bridge inverter?"}]}
+{"eval_id": 251, "msg": [{"role": "user", "content": "Tell me about the positive effects of camping."}]}
+{"eval_id": 275, "msg": [{"role": "user", "content": "Which areas may experience problems due to global warming?"}]}
+{"eval_id": 48, "msg": [{"role": "user", "content": "Tell me about the scenarios that can occur when a chlorine atom emits light."}]}
+{"eval_id": 36, "msg": [{"role": "user", "content": "Why can the larynx maintain stability?"}]}
+{"eval_id": 218, "msg": [{"role": "user", "content": "These days are really tough.."}]}
+{"eval_id": 298, "msg": [{"role": "user", "content": "What is a good way to transfer an unidentified powder from the lab using a scale?"}]}
+{"eval_id": 40, "msg": [{"role": "user", "content": "Why does Venus appear the brightest among the planets?"}]}
+{"eval_id": 260, "msg": [{"role": "user", "content": "What impurities have the greatest impact on the strength of a magnet?"}]}
+{"eval_id": 11, "msg": [{"role": "user", "content": "What is a solenoid?"}]}
+{"eval_id": 249, "msg": [{"role": "user", "content": "I am taking several medications at the same time."}, {"role": "assistant", "content": "Yes, how can I help you?"}, {"role": "user", "content": "What problems can arise when eating like this at the same time?"}]}
+{"eval_id": 22, "msg": [{"role": "user", "content": "Please tell me the difference between amplitude modulation and frequency modulation."}]}
+{"eval_id": 93, "msg": [{"role": "user", "content": "List the benefits of sleeping well."}]}
+{"eval_id": 31, "msg": [{"role": "user", "content": "How do sound waves travel?"}]}
+{"eval_id": 50, "msg": [{"role": "user", "content": "Tell me about the issues and countermeasures related to terrorism."}]}
+{"eval_id": 277, "msg": [{"role": "user", "content": "Why does the person with less weight move faster when two people push each other in a place with no friction?"}]}
+{"eval_id": 27, "msg": [{"role": "user", "content": "Tell me about the experiment that identified the formation of gap junctions between cells."}]}
+{"eval_id": 272, "msg": [{"role": "user", "content": "Is there a relation between the size of a planet and how often its volcanoes erupt?"}]}
+{"eval_id": 54, "msg": [{"role": "user", "content": "Let's say a dominant red flower is crossed with a recessive white flower."}, {"role": "assistant", "content": "Yes, go ahead."}, {"role": "user", "content": "What will be the color of the flowers in the next generation after crossing two flowers?"}]}
+{"eval_id": 302, "msg": [{"role": "user", "content": "What form of energy is wasted when a machine burns fuel?"}]}
+{"eval_id": 3, "msg": [{"role": "user", "content": "Animals often migrate in groups, you know?"}, {"role": "assistant", "content": "Yes, that's right."}, {"role": "user", "content": "What are the reasons that lead to migrating as a group like this?"}]}
+{"eval_id": 202, "msg": [{"role": "user", "content": "What measures are various South American countries taking to increase high school enrollment rates?"}]}
+{"eval_id": 74, "msg": [{"role": "user", "content": "Please explain IP in the network layer."}]}
+{"eval_id": 44, "msg": [{"role": "user", "content": "If you catch the same flu again, you recover quickly, right?"}, {"role": "assistant", "content": "Yes, that's correct."}, {"role": "user", "content": "What is the reason for that?"}]}
+{"eval_id": 63, "msg": [{"role": "user", "content": "Explain the magnitude of the forces applied from both sides to maintain balance on a seesaw."}]}
+{"eval_id": 37, "msg": [{"role": "user", "content": "Please provide an example of calculating the probability of an event occurring from one of two sources."}]}
+{"eval_id": 29, "msg": [{"role": "user", "content": "What methods can be used to observe the ecology of insects?"}]}
+{"eval_id": 102, "msg": [{"role": "user", "content": "How can I find the mass of a small gas?"}]}
+{"eval_id": 228, "msg": [{"role": "user", "content": "What is the equilibrium polarization ratio?"}]}
+{"eval_id": 297, "msg": [{"role": "user", "content": "What is the reason for the prohibition of sexual acts between relatives?"}]}
+{"eval_id": 278, "msg": [{"role": "user", "content": "Elderly people often lose their sense of smell."}, {"role": "assistant", "content": "Yes, that's correct."}, {"role": "user", "content": "What kind of results would occur if you can't smell like this?"}]}
+{"eval_id": 53, "msg": [{"role": "user", "content": "Why is the sky blue?"}]}
+{"eval_id": 26, "msg": [{"role": "user", "content": "How does the reproduction of straw sandals bugs occur?"}]}
+{"eval_id": 265, "msg": [{"role": "user", "content": "What happens to the weather after a warm front occurs?"}]}
+{"eval_id": 216, "msg": [{"role": "user", "content": "Is the current in the wire and the light bulb the same in a circuit where electricity is flowing?"}]}
+{"eval_id": 95, "msg": [{"role": "user", "content": "When is the best time to effectively utilize renewable energy in Florida?"}]}
+{"eval_id": 305, "msg": [{"role": "user", "content": "What are the causes that can negatively impact the coastal environment from farming?"}]}
+{"eval_id": 7, "msg": [{"role": "user", "content": "How does the speed of light behave inside a dielectric that does not exhibit magnetism?"}]}
+{"eval_id": 88, "msg": [{"role": "user", "content": "Why is a nature reserve necessary?"}]}
+{"eval_id": 244, "msg": [{"role": "user", "content": "What is a normal wave?"}]}
+{"eval_id": 223, "msg": [{"role": "user", "content": "Please explain scientifically how the ball moves when force is applied to it."}]}
+{"eval_id": 303, "msg": [{"role": "user", "content": "Explain how animals increase their chances of survival through the color of their skin or fur."}]}
+{"eval_id": 286, "msg": [{"role": "user", "content": "Tell me about the chemical reaction between methane and oxygen."}]}
+{"eval_id": 266, "msg": [{"role": "user", "content": "Do you have any tips for growing peaches?"}]}
