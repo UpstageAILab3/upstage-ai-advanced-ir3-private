@@ -9,7 +9,7 @@
 
 ## 0. Overview
 ### Environment
-- _Write Development environment_
+- _Write Development environmen_수정
 
 ### Requirements
 - _Write Requirements_
