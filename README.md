@@ -4,7 +4,7 @@
 
 | ![정인웅](https://avatars.githubusercontent.com/u/156163982?v=4) | ![이범희](https://avatars.githubusercontent.com/u/156163982?v=4) | ![박건민](https://avatars.githubusercontent.com/u/156163982?v=4) |
 | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
-|            [정인웅](https://github.com/UpstageAILab)             |            [이범희](https://github.com/UpstageAILab)             |            [박건민](https://github.com/UpstageAILab)             |
+|            [정인웅](https://github.com/Messengerwoong)             |            [이범희](https://github.com/tmttd)             |            [박건민](https://github.com/UpstageAILab)             |
 |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |
 
 ## 0. Overview
