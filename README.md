@@ -49,8 +49,8 @@ RAG 시스템이 사용자 질문에 적합한 레퍼런스를 찾고 이를 토
 
 ### Timeline
 
-- July 30, 2024 - Start Date
-- August 11, 2024 - Final submission deadline
+- 10 2, 2024 - Start Date
+- 10 24, 2024 - Final submission deadline
 
 ## 2. Components
 
