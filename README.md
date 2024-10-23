@@ -48,11 +48,11 @@ os
 ## 1. Competiton Info
 
 ### Overview
-- [Document Type Classification | 문서 타입 분류](https://stages.ai/competitions/312/overview/description)
+- Scientific Knowledge Question Answering | 과학 지식 질의 응답 시스템 구축(https://stages.ai/competitions/322/overview/description)
 
-문서는 금융, 보험, 물류, 의료 등 도메인을 가리지 않고 많이 취급됩니다. <br> 이 대회는 다양한 종류의 문서 이미지의 클래스를 예측합니다.
+RAG 시스템이 사용자 질문에 적합한 레퍼런스를 찾고 이를 토대로 답을 잘하는 지 보는 목적
 
-- `#비공개대회` `#UpstageAILab3기` `#CVAdvanced`
+- `#비공개대회` `#UpstageAILab3기` `#information Retrieval`
 
 ### Timeline
 
