@@ -40,9 +40,6 @@ RAG 시스템이 사용자 질문에 적합한 레퍼런스를 찾고 이를 토
 ## 2. Components
 
 ### Directory
-```
-```
-
 
 ## 3. Data descrption
 
