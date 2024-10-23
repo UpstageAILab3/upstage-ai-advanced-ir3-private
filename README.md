@@ -70,13 +70,13 @@ MAP	MRR
 ![PUBLIC](leaderboard.png)
 
 > PRIVATE <br>
-![PRIVATE](/docs/img/leaderboard-private.PNG)
+![PRIVATE](leaderboard.png)
 
 > BEST SCORE <br>
 ![Best](leaderboard.png)
 ### Presentation
 
-- [💾 PDF]([패스트캠퍼스] Upstage AI Lab 3기_IR 경진대회_발표자료_3조.pdf)
+- [패스트캠퍼스] Upstage AI Lab 3기_IR 경진대회_발표자료_3조.pdf
 
 ## etc
 ### Reference
