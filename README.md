@@ -73,7 +73,7 @@ MAP	MRR
 ![PRIVATE](/docs/img/leaderboard-private.PNG)
 
 > BEST SCORE <br>
-![Best](/docs/img/best_score.PNG)
+![Best](leaderboard.png)
 ### Presentation
 
 - [💾 PDF](/docs/pdf/[패스트캠퍼스]%20Upstage%20AI%20Lab%203기_CV%20경진대회_발표자료_8조.pdf)
