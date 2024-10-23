@@ -2,7 +2,7 @@
 # Title (Please modify the title)
 ## Team
 
-| ![정인웅](https://avatars.githubusercontent.com/u/156163982?v=4) | ![이범희](https://avatars.githubusercontent.com/u/156163982?v=4) | ![박건민](https://avatars.githubusercontent.com/u/156163982?v=4) |
+| !<img src="https://drive.google.com/uc?export=view&id=1LHSq2m119E8Vc590kM6PCwBF9quxjY4R" alt="정인웅" width="150" height="100"> | <img src="https://drive.google.com/uc?export=view&id=1Fg7LNgBWTcaBBXEaVLDwI73o6nklBApt" alt="이범희" width="150" height="100">  | ![박건민](https://avatars.githubusercontent.com/u/156163982?v=4) |
 | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
 |            [정인웅](https://github.com/Messengerwoong)             |            [이범희](https://github.com/tmttd)             |            [박건민](https://github.com/UpstageAILab)             |
 |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |
