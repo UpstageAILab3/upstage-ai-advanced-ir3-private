@@ -18,24 +18,9 @@
 
 ### Requirements
 ```python
-shutil
-PIL
-time
-random
-numpy==1.26.0
-sklearn
-timm==0.9.12
-cv2
-torch==2.2.0
-matplotlib==3.9.1
-gc
-seaborn==0.13.2
-torchvision==0.17.0
-tqdm==4.65.0
-collections
-albumentations==1.3.1
-pandas==2.1.4
-os
+sentence_transformers==2.2.2
+elasticsearch==8.15.2
+openai==1.7.2
 ```
 
 ## 1. Competiton Info
@@ -71,35 +56,6 @@ RAG 시스템이 사용자 질문에 적합한 레퍼런스를 찾고 이를 토
 {"eval_id": 78, "msg": [{"role": "user", "content": "나무의 분류에 대해 조사해 보기 위한 방법은?"}]}
 {"eval_id": 213, "msg": [{"role": "user", "content": "각 나라에서의 공교육 지출 현황에 대해 알려줘."}]}
 
-> **test**
-
-3140장의 이미지
-
-### EDA
-![EDA](/docs/img/eda.png)
-
-### Data Processing
-
-> **Augraphy**
-- BrightnessTexturize(p=1.0)
-- LowInkRandomLines(p=1.0)
-- LowInkPeriodicLines(p=1.0)
-- BindingsAndFasteners(p=1.0)
-- LightingGradient(p=1.0)
-
-> **Rotate**
-
-[45, 90, 135, 180, 225, 270, 315]
-
-> **Flip**
-
-hflip, vflip
-
-> **Gaussian Blur**
-[0.5, 1, 1.5]
-
-
-
 ## 4. Modeling
 
 ### Model descrition
@@ -108,7 +64,7 @@ hflip, vflip
 
 ### Modeling Process
 
-- LLM모델을 위한 RAG기능 비교
+- LLM모델을 사용하여 RAG기능 비교
 
 ## 5. Result
 F1-Score
@@ -127,5 +83,5 @@ F1-Score
 
 ## etc
 ### Reference
-- [baseline code](https://stages.ai/competitions/319/data/baseline)
+- [baseline code](https://stages.ai/competitions/322/data/baseline)
 
