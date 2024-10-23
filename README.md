@@ -8,13 +8,6 @@
 |                          모든 역할 + gemini api 구현                             |                    모든 역할 + 프롬프트 엔지니어링                             |                       모든 역할 + 각종 알고리즘 구현                             |
 
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/FVjNDCrt)
-# Document Type Classification | 문서 타입 분류
-## Team
-
-| <img src="https://drive.google.com/uc?export=view&id=1LHSq2m119E8Vc590kM6PCwBF9quxjY4R" alt="정인웅" width="150" height="100"> | <img src="https://drive.google.com/uc?export=view&id=1Fg7LNgBWTcaBBXEaVLDwI73o6nklBApt" alt="이범희" width="150" height="100"> | <img src="https://drive.google.com/uc?export=view&id=1G2GLuzvsoSigbdlHFneNkNdUCnRss_Z3" alt="안수민" width="150" height="100"> | <img src="https://drive.google.com/uc?export=view&id=1rfLaDJocTPO2c0ctPnCOebACb39Uz3f2" alt="진수훈" width="150" height="100"> |
-| :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
-|            [정인웅](https://github.com/Messengerwoong)             |            [이범희](https://github.com/tmttd)             |            [안수민](https://github.com/soomnia)             |            [진수훈](https://github.com/huniii32)             |
-| - Data Processing, Augementation <br> - Modeling | - Modeling | - Modeling  | - Data Processing, Augementation <br> - Modeling |
 
 
 ## 0. Overview
