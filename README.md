@@ -64,7 +64,7 @@ RAG 시스템이 사용자 질문에 적합한 레퍼런스를 찾고 이를 토
 - LLM모델을 사용하여 RAG기능 비교
 
 ## 5. Result
-	MAP	MRR
+MAP	MRR
 ### Leader Board
 > PUBLIC <br>
 ![PUBLIC](/docs/img/leaderboard-public.PNG)
