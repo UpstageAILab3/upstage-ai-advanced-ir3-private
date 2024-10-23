@@ -18,12 +18,12 @@
 
 ### Overview
 
-- _Write competition information_
+- 
 
 ### Timeline
 
-- ex) January 10, 2024 - Start Date
-- ex) February 10, 2024 - Final submission deadline
+-  10 10, 2024 - Start Date
+- ex)  10, 2024 - Final submission deadline
 
 ## 2. Components
 
@@ -47,26 +47,23 @@ e.g.
         └── train
 ```
 
-## 3.Query Transformation
-query transformation -> 성능 향상: 점수 0.7121->0.7742
+## 3.Pipeline
+### query transformation
 
-### Dataset overview
+- 성능 향상: 점수 0.7121->0.7742
+### Standalone Query Generation
 
-- _Explain using data_
+- 
 
-### EDA
+### Embedding model 교체
 
-- _Describe your EDA process and step-by-step conclusion_
+- 
 
-### Data Processing
+### Topk re-rank
 
-- _Describe data processing process (e.g. Data Labeling, Data Cleaning..)_
+### LLM을 GEMINI로 교체
 
-## 4. Modeling
-
-### Model descrition
-
-- _Write model information and why your select this model_
+- 
 
 ### Modeling Process
 
@@ -76,8 +73,8 @@ query transformation -> 성능 향상: 점수 0.7121->0.7742
 
 ### Leader Board
 
-- _Insert Leader Board Capture_
-- _Write rank and score_
+- 
+- 
 
 ### Presentation
 
