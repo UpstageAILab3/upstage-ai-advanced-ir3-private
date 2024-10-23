@@ -47,7 +47,8 @@ e.g.
         └── train
 ```
 
-## 3. Data descrption
+## 3.Query Transformation
+query transformation -> 성능 향상: 점수 0.7121->0.7742
 
 ### Dataset overview
 
