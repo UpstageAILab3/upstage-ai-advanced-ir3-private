@@ -67,7 +67,7 @@ RAG 시스템이 사용자 질문에 적합한 레퍼런스를 찾고 이를 토
 MAP	MRR
 ### Leader Board
 > PUBLIC <br>
-![PUBLIC](/docs/img/leaderboard-public.PNG)
+![PUBLIC](leaderboard.png)
 
 > PRIVATE <br>
 ![PRIVATE](/docs/img/leaderboard-private.PNG)
