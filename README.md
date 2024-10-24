@@ -75,7 +75,7 @@ MAP	MRR
 > BEST SCORE <br>
 ![Best](leaderboard.png)
 ### Presentation
-[💾 PDF](docs/pdf/[패스트캠퍼스]%20Upstage%20AI%20Lab%203기_IR%20경진대회_발표자료_3조.pdf)
+[💾 PDF]([패스트캠퍼스]%20Upstage%20AI%20Lab%203기_IR%20경진대회_발표자료_3조.pdf)
 
 ## etc
 ### Reference
