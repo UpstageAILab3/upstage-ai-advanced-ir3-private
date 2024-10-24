@@ -76,7 +76,7 @@ MAP	MRR
 ![Best](leaderboard.png)
 ### Presentation
 
-- [💾 PDF]([패스트캠퍼스] Upstage AI Lab 3기_IR 경진대회_발표자료_3조.pdf)
+- [💾 PDF](/docs/pdf/[패스트캠퍼스]%20Upstage%20AI%20Lab%203기_ML_competition_발표자료_1조.pdf)
 
 ## etc
 ### Reference
