@@ -70,7 +70,7 @@ MAP	MRR
 ![PUBLIC](leaderboard.png)
 
 > PRIVATE <br>
-![PRIVATE](leaderboard.png)
+![PRIVATE](final_score.png)
 
 > BEST SCORE <br>
 ![Best](leaderboard.png)
